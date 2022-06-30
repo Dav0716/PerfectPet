@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/drawable/btn_primary.xml" value="0.216" />
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.216" />
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/layout/activity_home.xml" value="0.2037914691943128" />
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/layout/activity_registro_usuario.xml" value="0.1" />
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/layout/activity_reset_contra.xml" value="0.2753623188405797" />
+        <entry key="..\:/Android/proyectos/PerfectPet/PerfectPet/app/src/main/res/layout/activity_splash_screen.xml" value="0.2753623188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Android API 33, extension level 3 Platform" project-jdk-type="Android SDK" />
+</project>

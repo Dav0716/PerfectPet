@@ -131,8 +131,8 @@
                 android:layout_gravity="end"
                 android:clickable="true"
                 android:fontFamily="@font/nunito_extrabold"
-                android:paddingTop="7dp"
                 android:paddingLeft="5dp"
+                android:paddingTop="7dp"
                 android:text="Términos y Condiciones"
                 android:textColor="@color/primary_green"></TextView>
 
